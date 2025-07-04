@@ -1,0 +1,9 @@
+run project:
+	npx nx serve EcommerceSite
+
+create component:
+	npx nx g component layout/navbar --project EcommerceSite
+	> @schematics/angular:component
+
+
+
