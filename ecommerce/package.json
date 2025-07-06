@@ -38,6 +38,7 @@
     "@nx/js": "20.1.4",
     "@nx/web": "20.1.4",
     "@nx/workspace": "20.1.4",
+    "@nxrocks/nx-spring-boot": "^11.0.1",
     "@schematics/angular": "~18.2.0",
     "@swc-node/register": "~1.9.1",
     "@swc/core": "~1.5.7",
@@ -64,5 +65,6 @@
     "tslib": "^2.3.0",
     "typescript": "~5.5.2",
     "typescript-eslint": "^8.0.0"
-  }
+  },
+  "nx": {}
 }
